@@ -11,9 +11,9 @@ class Program {
     var hourInput = Console.ReadLine();
     double hours;
 
-    Console.Write("Enter the number of miles");
+    Console.Write("Enter the number of miles ");
     
-    var milesInput = Console.ReadLine();
+    var milesInput = Console.ReadLine( );
     double miles;
     
     
